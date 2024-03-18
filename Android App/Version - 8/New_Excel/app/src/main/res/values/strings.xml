@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string name="select_action_prompt">Select Action</string>
+    <string name="disapprove">Disapprove</string>
+    <string-array name="action_items">
+        <item>Approve</item>
+        <item>Assault</item>
+        <item>Arson</item>
+        <item>Abuse</item>
+        <item>Burglary</item>
+        <item>Robbery</item>
+    </string-array>
+</resources>
